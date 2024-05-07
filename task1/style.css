@@ -1,0 +1,44 @@
+#one{
+    display: inline-block;
+    width: 300px;
+    height: 200px;
+    background-image: url(./img/house1.jpg) ;
+    background-size: cover;
+}
+h2{
+    display: inline-block;
+    background-color: black;
+    color: white;
+    padding: 8px 16px;
+    margin-top: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+
+#two{
+    display: inline-block;
+    width: 300px;
+    height: 200px;
+    background-image: url(./img/house2.jpg) ;
+    background-size: cover;
+    margin-left: 10px;
+}
+
+#three{
+    display: inline-block;
+    width: 300px;
+    height: 200px;
+    background-image: url(./img/house3.jpg) ;
+    background-size: cover;
+    margin-left: 10px;
+}
+
+#four{
+    display: inline-block;
+    width: 300px;
+    height: 200px;
+    background-image: url(./img/house4.jpg) ;
+    background-size: cover;
+    margin-left: 10px;
+}
+
